@@ -21,8 +21,3 @@
 
 - 🌱 I’m currently learning **...**
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradeepsimba&show_icons=true&theme=radical" alt="pradeepsimba" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pradeepsimba&show_icons=true&locale=en&layout=compact&theme=radical" alt="pradeepsimba" />
-</p>
